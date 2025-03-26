@@ -1,0 +1,5 @@
+Item: Espada de diamante, Quantidade: 3, Imagem: https://www.nicepng.com/png/detail/154-1548050_diamond-minecraft-png.png
+Item: Bota de ouro, Quantidade: 2, Imagem: https://art.pixilart.com/04d5ccdc098f58e.png
+Item: Capacete de ferro, Quantidade: 1, Imagem: https://th.bing.com/th/id/OIP.BpGE2hu8cuZqbkvfo409sgAAAA?rs=1&pid=ImgDetMain
+Item: Picareta de Ferro, Quantidade: 5, Imagem: https://freepngimg.com/thumb/minecraft/94806-square-angle-pocket-edition-pickaxe-minecraft.png
+Item: Carne de Porco assada, Quantidade: 1, Imagem: https://gamepedia.cursecdn.com/minecraft_br_gamepedia/7/74/Grilledpork.png?version=0ae7f0db76b90a928da95d7af866bb0b
